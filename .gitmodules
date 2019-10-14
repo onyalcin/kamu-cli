@@ -1,6 +1,7 @@
 [submodule "kamu-core-ingest-polling"]
 	path = libraries/kamu-core-ingest-polling
 	url = https://github.com/kamu-data/kamu-core-ingest-polling
+	branch = feature-pull-uncacheable
 [submodule "kamu-core-manifests"]
 	path = libraries/kamu-core-manifests
 	url = https://github.com/kamu-data/kamu-core-manifests
